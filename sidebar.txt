@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[usp:home|Door43 (usp)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-usp|d43-usp repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-usp/archive/master.zip|d43-usp.zip]]
+
+**Recent Changes**
+{{changes>ns = usp}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/usp|Ethnologue data]]
+
